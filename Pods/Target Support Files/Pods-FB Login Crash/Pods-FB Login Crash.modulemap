@@ -1,0 +1,6 @@
+framework module Pods_FB_Login_Crash {
+  umbrella header "Pods-FB Login Crash-umbrella.h"
+
+  export *
+  module * { export * }
+}
